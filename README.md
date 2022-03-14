@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Social media app
 
-## Available Scripts
+## Available Scripts 
 
 In the project directory, you can run:
 
